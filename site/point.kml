@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2'>
+<Document>
+<name>批量导出_20200729215228</name>
+<Folder>
+<name>河西城市生态公园</name>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道江东南路辅路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′40.5912″-118°41′44.3292″-15.59_1_20200729191059.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′40.5912″-118°41′44.3292″-15.59_1_20200729191059.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道江东南路辅路","纬经度":"31.977942,118.695647,15.59","照片":"中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′40.5912″-118°41′44.3292″-15.59_1_20200729191059.jpg;","时间":"2020-07-29 19:11:18","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":8}]]></description>
+<Point>
+<coordinates>118.695647,31.977942,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>8.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′40.5912″-118°41′44.3292″-15.59_1_20200729191059.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:11:18</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道江东南路辅路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.6716″-118°41′41.2764″-22.36_1_20200729191626.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.6716″-118°41′41.2764″-22.36_1_20200729191626.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道江东南路辅路","纬经度":"31.977131,118.694799,22.36","照片":"中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.6716″-118°41′41.2764″-22.36_1_20200729191626.jpg;","时间":"2020-07-29 19:16:39","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":23,"精度":3}]]></description>
+<Point>
+<coordinates>118.694799,31.977131,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>23</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.6716″-118°41′41.2764″-22.36_1_20200729191626.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:16:39</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道江东南路辅路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.5652″-118°41′41.388″-11.85_1_20200729191819.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.5652″-118°41′41.388″-11.85_1_20200729191819.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道江东南路辅路","纬经度":"31.977657,118.69483,11.85","照片":"中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.5652″-118°41′41.388″-11.85_1_20200729191819.jpg;","时间":"2020-07-29 19:18:31","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":4}]]></description>
+<Point>
+<coordinates>118.69483,31.977657,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>4.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.5652″-118°41′41.388″-11.85_1_20200729191819.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:18:31</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道江东南路辅路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.3672″-118°41′39.6924″-5.56_1_20200729191926.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.3672″-118°41′39.6924″-5.56_1_20200729191926.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道江东南路辅路","纬经度":"31.977602,118.694359,5.56","照片":"中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.3672″-118°41′39.6924″-5.56_1_20200729191926.jpg;","时间":"2020-07-29 19:19:34","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":3}]]></description>
+<Point>
+<coordinates>118.694359,31.977602,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.3672″-118°41′39.6924″-5.56_1_20200729191926.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:19:34</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道江东南路辅路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.4968″-118°41′37.6008″-0.02_1_20200729192056.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.4968″-118°41′37.6008″-0.02_1_20200729192056.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道江东南路辅路","纬经度":"31.977638,118.693778,0.02","照片":"中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.4968″-118°41′37.6008″-0.02_1_20200729192056.jpg;","时间":"2020-07-29 19:21:06","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":23,"精度":4}]]></description>
+<Point>
+<coordinates>118.693778,31.977638,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>23</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>4.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′39.4968″-118°41′37.6008″-0.02_1_20200729192056.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:21:06</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道江东南路辅路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′38.388″-118°41′37.698″-13.54_1_20200729192203.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′38.388″-118°41′37.698″-13.54_1_20200729192203.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道江东南路辅路","纬经度":"31.97733,118.693805,13.54","照片":"中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′38.388″-118°41′37.698″-13.54_1_20200729192203.jpg;","时间":"2020-07-29 19:22:12","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":3}]]></description>
+<Point>
+<coordinates>118.693805,31.97733,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′38.388″-118°41′37.698″-13.54_1_20200729192203.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:22:12</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道江东南路辅路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.776″-118°41′37.3092″-17.41_1_20200729192255.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.776″-118°41′37.3092″-17.41_1_20200729192255.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道江东南路辅路","纬经度":"31.97716,118.693697,17.41","照片":"中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.776″-118°41′37.3092″-17.41_1_20200729192255.jpg;","时间":"2020-07-29 19:23:05","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":4}]]></description>
+<Point>
+<coordinates>118.693697,31.97716,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>4.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.776″-118°41′37.3092″-17.41_1_20200729192255.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:23:05</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道江东南路辅路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′36.912″-118°41′36.1356″-20.39_1_20200729192344.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′36.912″-118°41′36.1356″-20.39_1_20200729192344.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道江东南路辅路","纬经度":"31.97692,118.693371,20.39","照片":"中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′36.912″-118°41′36.1356″-20.39_1_20200729192344.jpg;","时间":"2020-07-29 19:23:56","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":3}]]></description>
+<Point>
+<coordinates>118.693371,31.97692,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′36.912″-118°41′36.1356″-20.39_1_20200729192344.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:23:56</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道江东南路辅路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.2612″-118°41′34.5588″-16.41_1_20200729192455.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.2612″-118°41′34.5588″-16.41_1_20200729192455.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道江东南路辅路","纬经度":"31.977017,118.692933,16.41","照片":"中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.2612″-118°41′34.5588″-16.41_1_20200729192455.jpg;","时间":"2020-07-29 19:25:03","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":23,"精度":3}]]></description>
+<Point>
+<coordinates>118.692933,31.977017,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>23</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道江东南路辅路_31°58′37.2612″-118°41′34.5588″-16.41_1_20200729192455.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:25:03</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道吴侯街</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道吴侯街_31°58′35.3604″-118°41′30.8688″-16.86_1_20200729192748.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道吴侯街_31°58′35.3604″-118°41′30.8688″-16.86_1_20200729192748.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道吴侯街","纬经度":"31.976489,118.691908,16.86","照片":"中国江苏省南京市建邺区双闸街道吴侯街_31°58′35.3604″-118°41′30.8688″-16.86_1_20200729192748.jpg;","时间":"2020-07-29 19:28:02","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":23,"精度":3}]]></description>
+<Point>
+<coordinates>118.691908,31.976489,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>23</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道吴侯街_31°58′35.3604″-118°41′30.8688″-16.86_1_20200729192748.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:28:02</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道吴侯街</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道吴侯街_31°58′34.0788″-118°41′31.146″-17.18_1_20200729192851.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道吴侯街_31°58′34.0788″-118°41′31.146″-17.18_1_20200729192851.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道吴侯街","纬经度":"31.976133,118.691985,17.18","照片":"中国江苏省南京市建邺区双闸街道吴侯街_31°58′34.0788″-118°41′31.146″-17.18_1_20200729192851.jpg;","时间":"2020-07-29 19:28:59","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":23,"精度":3}]]></description>
+<Point>
+<coordinates>118.691985,31.976133,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>23</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道吴侯街_31°58′34.0788″-118°41′31.146″-17.18_1_20200729192851.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:28:59</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道吴侯街</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道吴侯街_31°58′33.24″-118°41′32.316″-18.54_1_20200729192944.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道吴侯街_31°58′33.24″-118°41′32.316″-18.54_1_20200729192944.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道吴侯街","纬经度":"31.9759,118.69231,18.54","照片":"中国江苏省南京市建邺区双闸街道吴侯街_31°58′33.24″-118°41′32.316″-18.54_1_20200729192944.jpg;","时间":"2020-07-29 19:29:56","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":3}]]></description>
+<Point>
+<coordinates>118.69231,31.9759,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道吴侯街_31°58′33.24″-118°41′32.316″-18.54_1_20200729192944.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:29:56</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道吴侯街</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道吴侯街_31°58′31.7676″-118°41′33.9684″-19.09_1_20200729193104.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道吴侯街_31°58′31.7676″-118°41′33.9684″-19.09_1_20200729193104.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道吴侯街","纬经度":"31.975491,118.692769,19.09","照片":"中国江苏省南京市建邺区双闸街道吴侯街_31°58′31.7676″-118°41′33.9684″-19.09_1_20200729193104.jpg;","时间":"2020-07-29 19:31:14","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":2}]]></description>
+<Point>
+<coordinates>118.692769,31.975491,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>2.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道吴侯街_31°58′31.7676″-118°41′33.9684″-19.09_1_20200729193104.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:31:14</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道庐山路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道庐山路_31°58′31.7712″-118°41′36.006″-19.32_1_20200729193217.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道庐山路_31°58′31.7712″-118°41′36.006″-19.32_1_20200729193217.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道庐山路","纬经度":"31.975492,118.693335,19.32","照片":"中国江苏省南京市建邺区双闸街道庐山路_31°58′31.7712″-118°41′36.006″-19.32_1_20200729193217.jpg;","时间":"2020-07-29 19:32:29","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":23,"精度":3}]]></description>
+<Point>
+<coordinates>118.693335,31.975492,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>23</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道庐山路_31°58′31.7712″-118°41′36.006″-19.32_1_20200729193217.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:32:29</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道庐山路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道庐山路_31°58′31.7568″-118°41′36.6432″-19.65_1_20200729193255.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道庐山路_31°58′31.7568″-118°41′36.6432″-19.65_1_20200729193255.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道庐山路","纬经度":"31.975488,118.693512,19.65","照片":"中国江苏省南京市建邺区双闸街道庐山路_31°58′31.7568″-118°41′36.6432″-19.65_1_20200729193255.jpg;","时间":"2020-07-29 19:33:04","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":3}]]></description>
+<Point>
+<coordinates>118.693512,31.975488,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道庐山路_31°58′31.7568″-118°41′36.6432″-19.65_1_20200729193255.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:33:04</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道庐山路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道庐山路_31°58′32.61″-118°41′41.4492″-19.91_1_20200729193508.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道庐山路_31°58′32.61″-118°41′41.4492″-19.91_1_20200729193508.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道庐山路","纬经度":"31.975725,118.694847,19.91","照片":"中国江苏省南京市建邺区双闸街道庐山路_31°58′32.61″-118°41′41.4492″-19.91_1_20200729193508.jpg;","时间":"2020-07-29 19:35:16","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":3}]]></description>
+<Point>
+<coordinates>118.694847,31.975725,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道庐山路_31°58′32.61″-118°41′41.4492″-19.91_1_20200729193508.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:35:16</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>中国江苏省南京市建邺区双闸街道庐山路</name>
+<description><![CDATA[::<a href="中国江苏省南京市建邺区双闸街道庐山路_31°58′33.2688″-118°41′43.7856″-20.48_1_20200729193616.jpg" target="_balnk"><img src="中国江苏省南京市建邺区双闸街道庐山路_31°58′33.2688″-118°41′43.7856″-20.48_1_20200729193616.jpg" width="300"/></a> <br/> {"名称":"中国江苏省南京市建邺区双闸街道庐山路","纬经度":"31.975908,118.695496,20.48","照片":"中国江苏省南京市建邺区双闸街道庐山路_31°58′33.2688″-118°41′43.7856″-20.48_1_20200729193616.jpg;","时间":"2020-07-29 19:36:25","标记样式":0,"分类":0,"是否收藏":0,"描述":"","描述2":"","描述3":"","卫星数":24,"精度":3}]]></description>
+<Point>
+<coordinates>118.695496,31.975908,0.0 </coordinates>
+</Point>
+<ExtendedData>
+<Data name="satelliteCount"><value>24</value></Data>
+<Data name="markerStyle"><value>0</value></Data>
+<Data name="accuracy"><value>3.0</value></Data>
+<Data name="memo"><value>中国江苏省南京市建邺区双闸街道庐山路_31°58′33.2688″-118°41′43.7856″-20.48_1_20200729193616.jpg;</value></Data>
+<Data name="saveTime"><value>2020-07-29 19:36:25</value></Data>
+<Data name="type"><value>0</value></Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+</Document>
+</kml>
